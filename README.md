@@ -23,3 +23,16 @@ git clone https://github.com/jaikrish-24/Encdecpy.git
 ```bash
 pip install -r requirements.txt
 ```
+
+3. Run the backend server.
+```bash
+python Encdec.py
+```
+
+4. Use the GUI to:
+ - Generate RSA keys.
+ - Encrypt a message using the public key.
+ - Decrypt a message using the private key.
+
+## Contribution
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
