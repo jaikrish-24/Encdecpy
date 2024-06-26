@@ -1,7 +1,7 @@
 <h1> Encdecpy </h1>
 
-# RSA Encryption and Decryption with Tkinter GUI
-
+<h2> RSA Encryption and Decryption with Tkinter GUI </h2>
+ 
 ## Description
 This project provides a simple graphical user interface (GUI) for RSA encryption and decryption using Python's tkinter library. RSA (Rivest-Shamir-Adleman) is a widely-used public key cryptographic algorithm. The GUI allows users to input messages, encrypt them using a public key, and decrypt them using a private key.
 
@@ -11,8 +11,15 @@ This project provides a simple graphical user interface (GUI) for RSA encryption
 - Simple and intuitive tkinter GUI
 
 ## Installation
-To run this project, ensure you have Python installed on your machine. You can install the required dependencies using pip:
+To run this project, ensure you have Python installed on your machine.
 
+## Setup and Installation
+1. Clone the repository to your local machine.
 ```bash
-pip install tk
+git clone https://github.com/jaikrish-24/Encdecpy.git
+```
+
+2. Install packages required for the tool.
+```bash
+pip install -r requirements.txt
 ```
