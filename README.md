@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 3. Run the backend server.
 ```bash
-python Encdec.py
+python Enc.py
 ```
 
 4. Use the GUI to:
